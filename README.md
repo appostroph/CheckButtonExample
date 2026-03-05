@@ -1,5 +1,5 @@
 # CheckButton Example Project 
-Use Cases for [CheckButton Package](https://github.com/appostroph/CheckButton)
+[CheckButton Package](https://github.com/appostroph/CheckButton) Use Cases
 <br>
 <br>
 <br>
