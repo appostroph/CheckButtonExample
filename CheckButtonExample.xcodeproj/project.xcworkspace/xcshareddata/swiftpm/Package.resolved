@@ -1,0 +1,15 @@
+{
+  "originHash" : "8bf0e19edd7dc27eb9631e1aa8d99f80849cb0806d95002e24df1b73317dc755",
+  "pins" : [
+    {
+      "identity" : "checkbutton",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/appostroph/CheckButton.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "78bbf490d5a3132e5aeae3d51b4edf65fd5c70f2"
+      }
+    }
+  ],
+  "version" : 3
+}
